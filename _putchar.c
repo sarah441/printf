@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _putchar - print char
- * @character: The character
+ * _putchar - prints/writes character
+ * @character: The character to print
  * Return: 1, success, -1 error
  */
 
