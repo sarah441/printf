@@ -17,7 +17,7 @@ va_start(args, format);
 while (*format != '\0')
 {
 if (*format == '%')
-{                
+{
 format++;
 pcount = chooser(format, args, pcount);
 format++;
